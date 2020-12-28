@@ -1,6 +1,7 @@
 <?php
 /*
  * @package           Basic HTML Editor
+ * this is a changes should be reflected to the prodsite
 */
 
 defined( 'ABSPATH' ) or die ('Oops, you have no access.');
